@@ -1,0 +1,8 @@
+﻿Няколко линка с информация как се използва Console.WriteLine():
+
+- http://msdn.microsoft.com/en-us/library/zba0x2tx(v=vs.71).aspx
+- http://msdn.microsoft.com/en-us/library/system.console.writeline.aspx
+- http://msdn.microsoft.com/en-us/library/586y06yf.aspx
+- http://msdn.microsoft.com/en-us/library/ttxecb1c.aspx
+
+и явно че има и много други такива документи.
