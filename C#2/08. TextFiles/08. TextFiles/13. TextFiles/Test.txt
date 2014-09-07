@@ -1,0 +1,4 @@
+word 
+matrix 
+sofa 
+window

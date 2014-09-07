@@ -1,0 +1,14 @@
+word
+string 
+builder 
+build
+car 
+matrix 
+horce 
+glases
+window 
+frige 
+sofa 
+bad 
+table 
+desk
