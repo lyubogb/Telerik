@@ -1,4 +1,0 @@
-word 
-matrix 
-sofa 
-window
